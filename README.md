@@ -1,1 +1,1 @@
-KIM DONG HYUK 
+make item PHR details to users
